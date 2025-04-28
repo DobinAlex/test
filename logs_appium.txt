@@ -1,0 +1,27 @@
+cd /usr/local/lib/node_modules/test_appium/
+node index.js
+
+/usr/local/lib/node_modules/appium/index.js
+
+/usr/local/Cellar/node/23.10.0_1/bin/node
+
+
+{
+  "platformName": "iOS",
+  "appium:deviceName": "iPhone 16 Pro Max",
+  "appium:platformVersion": "18.4",
+  "appium:app": "/Users/user/Desktop/JavaAppiumAutomation/apks/Wikipedia745.app",
+  "appium:automationName": "XCUITest"
+}
+
+
+{
+  "platformName": "iOS",
+  "appium:deviceName": "iPhone 16 Pro Max",
+  "appium:platformVersion": "18.4",
+  "appium:app": "/Users/user/Documents/Wikipedia745.app",
+  "appium:automationName": "XCUITest"
+}
+
+
+
